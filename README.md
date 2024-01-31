@@ -9,7 +9,7 @@ site feito em **HTML5 & CSS3** para vendas de hospedagem e sites
 ### Planos e Preços
 - 4 **cartões** com um em destaque para **mostragem de planos**, seus preços e destacando o com melhor custo beneficio
 ### Procura de Dominios
-- Barra de pesquisa com finalidade de **procura de domínios disponiveis*
+- Barra de pesquisa com finalidade de **procura de domínios disponiveis**
 
 ## Funcionamento
 ### Opttimizado para ser **Responsivo**
