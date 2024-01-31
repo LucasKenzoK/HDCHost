@@ -12,5 +12,5 @@ site feito em **HTML5 & CSS3** para vendas de hospedagem e sites
 - Barra de pesquisa com finalidade de **procura de domínios disponiveis**
 
 ## Funcionamento
-### Opttimizado para ser **Responsivo**
+### Optimizado para ser **Responsivo**
 <img src="img/2023-12-12-19-22-20.gif" />
